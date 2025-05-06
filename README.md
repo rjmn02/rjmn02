@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-I'm a student passionate about <strong>Artificial Intelligence</strong> and <strong>Backend Development</strong>. I enjoy solving complex problems and building scalable systems, and I'm currently looking for an internship where I can learn, contribute, and grow.
+I'm a student passionate about <strong>Cybersecurity</strong>, <strong>Artificial Intelligence</strong> and <strong>Backend Development</strong>. I enjoy solving complex problems and building scalable systems, and I'm currently looking for an internship where I can learn, contribute, and grow.
 </p>
 
 <br/>
