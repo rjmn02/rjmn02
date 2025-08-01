@@ -13,7 +13,7 @@ I'm a student passionate about <strong>Cybersecurity</strong>, <strong>Artificia
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,nextjs,postgres,git,supabase,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,nextjs,nestjs,fastapi,postgres,git,supabase,vscode" />
 </p>
 
 <br/>
