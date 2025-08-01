@@ -5,7 +5,6 @@
   <br />
   I enjoy solving complex problems, building scalable systems, and diving deep into systems-level thinking.
   <br />
-  Currently seeking an internship where I can <strong>learn</strong>, <strong>contribute</strong>, and <strong>grow</strong>.
 </p>
 
 ---
