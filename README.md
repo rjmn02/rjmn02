@@ -41,7 +41,7 @@ I'm a passionate Computer Science student from Davao City, Philippines with grow
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="rjmn02's GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjmn02&theme=synthwave&hide_border=false" alt="rjmn02's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rjmn02&theme=synthwave&hide_border=false" alt="rjmn02's GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="rjmn02's Top Languages" />
 </p>
