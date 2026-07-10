@@ -33,11 +33,11 @@ I build full-stack applications where **AI meets human needs** — from chatbots
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rjmn02&theme=graywhite&show_icons=true&hide_border=true&count_private=true&title_color=1e1b4b&icon_color=f59e0b" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rjmn02&theme=black&show_icons=true&hide_border=true&count_private=true&title_color=9381ff&icon_color=a886ff" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=rjmn02&theme=graywhite&hide_border=true&stroke=1e1b4b&ring=f59e0b&fire=f59e0b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rjmn02&theme=dark&hide_border=true&stroke=9381ff&ring=a886ff&fire=a886ff" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rjmn02&theme=graywhite&show_icons=true&hide_border=true&layout=compact&title_color=1e1b4b&icon_color=0d9488" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rjmn02&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=9381ff&icon_color=a886ff" alt="Top Languages" />
 </p>
 
 ---
@@ -96,5 +96,5 @@ I'm always open to discussing new projects, collaborations, or opportunities. Fe
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rjmn02&label=Profile%20Views&color=0d9488&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rjmn02&label=Profile%20Views&color=a886ff&style=flat" alt="Profile Views" />
 </p>
