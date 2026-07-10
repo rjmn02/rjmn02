@@ -35,27 +35,23 @@ I'm a passionate Computer Science student from Davao City, Philippines with grow
 **Tools:** Git, Docker, Vercel
 
 ---
-
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="rjmn02's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&count_private=true" alt="rjmn02's GitHub Stats" />
   <br /><br />
   <img src="https://streak-stats.demolab.com/?user=rjmn02&theme=synthwave&hide_border=false" alt="rjmn02's GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="rjmn02's Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rjmn02&theme=synthwave&show_icons=true&hide_border=false&layout=compact" alt="rjmn02's Top Languages" />
 </p>
 
 ---
-
 ### 🌟 Featured Projects
-
 <p align="center">
   <a href="https://github.com/rjmn02/ojt-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=rjmn02&repo=ojt-project&theme=synthwave" alt="OJT Project" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=rjmn02&repo=ojt-project&theme=synthwave" alt="OJT Project" />
   </a>
   <a href="https://github.com/rjmn02/trafficlaw_chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=rjmn02&repo=trafficlaw_chatbot&theme=synthwave" alt="Traffic Law Chatbot" />
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=rjmn02&repo=trafficlaw_chatbot&theme=synthwave" alt="Traffic Law Chatbot" />
   </a>
 </p>
 
