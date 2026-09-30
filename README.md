@@ -12,16 +12,6 @@
 
 ---
 
-### 🚀 Building AI for Real Impact
-
-I build full-stack applications where **AI meets human needs** — from chatbots that make legal information accessible to platforms supporting cancer patients. Currently focused on RAG systems, cybersecurity, and scalable web architectures.
-
-- 🔭 **Traffic Law Chatbot**: Llama 70B RAG system answering legal questions
-- 🏥 **Cancer Companion**: Support platform with Next.js + Supabase
-- 🛠 **Stack**: TypeScript • Python • Next.js • FastAPI • PostgreSQL • Supabase
-
----
-
 ### 🛠 Tech Stack
 
 <p align="center">
